@@ -1,0 +1,41 @@
+/* add your CSS here */
+body {
+	font-family: Garamond, serif;
+	font-size: 0.8em;
+}
+
+div{
+	border: 1px solid #D3D3D3;
+	box-sizing: border-box;
+	border-radius:10px;
+	padding: 0px 10px 10px 10px;
+	background-color: #d4af37;
+}
+
+span {
+	font-weight: bold;
+}
+ul {
+	list-style-type: none;
+	display: inline;
+}
+
+img {
+	margin-bottom:10px;
+	width:300px;
+	border-radius:10px;
+}
+
+.bigbox {	
+	width: 320px;
+	box-shadow: 5px 5px 3px #D3D3D3;
+}
+
+ .smallbox {
+	 width: 300px;
+}
+
+.italicized {
+	font-style: italic;
+}
+
