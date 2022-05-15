@@ -1,5 +1,8 @@
 /* add your CSS here */
 body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	font-family: Garamond, serif;
 	font-size: 0.8em;
 }
